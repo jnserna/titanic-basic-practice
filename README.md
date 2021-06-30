@@ -1,5 +1,5 @@
 # Titatic Basic Practice
-This repo contains Titanic dataset and basic notes of a couple classificators built using Python.
+This repo contains the Titanic dataset and basic notes of a couple classificators built using Python.
 #
 The notebook has comments in English and Spanish.
 #
